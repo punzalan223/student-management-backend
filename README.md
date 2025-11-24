@@ -13,6 +13,8 @@ composer install
 ```
 
 2. Copy .env.example to .env and update your database credentials:
+
+```env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
