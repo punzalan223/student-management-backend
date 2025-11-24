@@ -21,6 +21,7 @@ DB_PORT=3306
 DB_DATABASE=service-management-backend
 DB_USERNAME=root
 DB_PASSWORD=
+```
 
 3. Run migrations and seeders:
 ```bash
